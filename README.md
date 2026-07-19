@@ -18,7 +18,7 @@ I'm Illia, a web developer based in Latvia, Riga.
 
 My main stack - React, TypeScript, Python and web libraries like MUI and Framer Motion. 
 
-Know how to work with backend technologies and relational databases, have a hands on experience with Docker, AWS EC2 and PostrgeSQL.
+Know how to work with backend technologies and relational databases, have a hands-on experience with Docker, AWS EC2 and PostrgeSQL.
 
 I've got a few projects, but my favorite one is the [NoteHarbor](https://github.com/oneslaught/NoteHarbor).
 
