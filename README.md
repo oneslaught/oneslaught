@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Illia, a web developer based in Latvia, Riga.
+
+My main stack is React, TypeScript, Python and web libraries like MUI and Framer Motion. 
+
+Know how to work with backend technologies and relational databases, have a hands on experience with Docker, AWS EC2 and PostrgeSQL.
+
+I've got a few projects, but my favorite one is the NoteHarbor.
+
+**Fun facts:**
+I don't like watching sports
+One Piece is my favourite anime
+Prefer drinking tea to coffee
+I utterly adore playing board games
+
+**Hobbies:** volleyball, reading, gym, chess, creating stuff
