@@ -26,6 +26,6 @@ I've got a few projects, but my favorite one is the [NoteHarbor](https://github.
 - I don't like watching sports
 - One Piece is my favorite anime
 - Prefer drinking tea to coffee
-- I utterly adore playing board games
+- Utterly adore playing board games
 
 **Hobbies:** volleyball, reading, gym, chess, creating stuff
