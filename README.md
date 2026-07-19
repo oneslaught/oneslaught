@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 I'm Illia, a web developer based in Latvia, Riga.
 
-My main stack is React, TypeScript, Python and web libraries like MUI and Framer Motion. 
+My main stack - React, TypeScript, Python and web libraries like MUI and Framer Motion. 
 
 Know how to work with backend technologies and relational databases, have a hands on experience with Docker, AWS EC2 and PostrgeSQL.
 
-I've got a few projects, but my favorite one is the NoteHarbor.
+I've got a few projects, but my favorite one is the [NoteHarbor](https://github.com/oneslaught/NoteHarbor).
 
 **Fun facts:**
 - I don't like watching sports
