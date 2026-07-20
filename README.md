@@ -23,9 +23,9 @@ Know how to work with backend technologies and relational databases, have a hand
 I've got a few projects, but my favorite one is the [NoteHarbor](https://github.com/oneslaught/NoteHarbor).
 
 **Fun facts:**
-- I don't like watching sports
-- One Piece is my favorite anime
-- Prefer drinking tea to coffee
-- Utterly adore playing board games
+- 📺 I don't like watching sports
+- 👒 One Piece is my favorite anime
+- 🍵 Prefer drinking tea to coffee
+- 🎴 Utterly adore playing board games
 
 **Hobbies:** volleyball, reading, gym, chess, creating stuff
